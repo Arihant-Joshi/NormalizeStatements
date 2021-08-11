@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D71274DD-CE40-479F-AE5F-1DAA8AA2D86B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NormalizeCreditCard/Program.cs">
+    <Files>
+      <File FileName="NormalizeCreditCard/Program.cs" Line="203" Column="13" />
+      <File FileName="NormalizeCreditCard/EmptyTextFile.txt" Line="6" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NormalizeCreditCard" expanded="True">
+            <Node name="NormalizeCreditCard" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NormalizeCreditCard PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

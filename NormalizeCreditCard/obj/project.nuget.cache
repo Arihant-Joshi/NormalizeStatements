@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyKGRnDLz/O4bM9q184abEBCymRcvGBESp+0MaLrqbeANXRD8H3dgfEYL/IoCeDovcPkTGvaQTbS848pfj+Rpw==",
+  "success": true,
+  "projectFilePath": "/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/NormalizeCreditCard.csproj",
+  "expectedPackageFiles": [
+    "/Users/arihant/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/5.0.8/microsoft.netcore.app.runtime.osx-x64.5.0.8.nupkg.sha512",
+    "/Users/arihant/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/5.0.8/microsoft.aspnetcore.app.runtime.osx-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

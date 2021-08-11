@@ -1,0 +1,14 @@
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/bin/Release/net5.0/NormalizeCreditCard.deps.json
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/bin/Release/net5.0/NormalizeCreditCard.runtimeconfig.json
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/bin/Release/net5.0/NormalizeCreditCard.runtimeconfig.dev.json
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/bin/Release/net5.0/NormalizeCreditCard.dll
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/bin/Release/net5.0/ref/NormalizeCreditCard.dll
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/bin/Release/net5.0/NormalizeCreditCard.pdb
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/NormalizeCreditCard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/NormalizeCreditCard.AssemblyInfoInputs.cache
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/NormalizeCreditCard.AssemblyInfo.cs
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/NormalizeCreditCard.csproj.CoreCompileInputs.cache
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/NormalizeCreditCard.dll
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/ref/NormalizeCreditCard.dll
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/NormalizeCreditCard.pdb
+/Users/arihant/Projects/NormalizeCreditCard/NormalizeCreditCard/obj/Release/net5.0/NormalizeCreditCard.genruntimeconfig.cache
